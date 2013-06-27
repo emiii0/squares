@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {margin:0;padding:0;}
+
+body {font-size:80%;background:white;font-family:Arial, Helvetica, sans-serif;background-image:url(../images/background.png);background-repeat:repeat;}
+
+ul {margin:0;padding:0;}
+
+li {margin:0;padding:0;}
+
+#splash {margin:0 auto;margin-top:50px;width:800px;height:600px;background-image:url(../images/squares.jpg);background-repeat:no-repeat;}
+
+	#splash a {float:left;margin:365px 0px 0px 80px;width:200px;height:30px;}
+
+#title {float:left;position:relative;margin-bottom:20px;width:100%;height:150px;}
+
+.header {position:relative;padding:5px 0px 5px 5px;width:100%;height:40px;background:#bb141a;font-size:1.3em;font-weight:bold;font-family:"Arial Black", Gadget, sans-serif;}
+
+.theQuestion {display:none;float:left;position:relative;margin:30px 0px 0px 30px;width:100%;font-size:2.5em;}
+
+.answer {display:none;clear:left;float:left;position:relative;padding:27px 0px 0px 10px;margin:30px 0px 0px 100px;min-width:300px;font-size:1.5em;font-style:italic;}
+
+.key {float:left;padding:15px 0px 0px 0px;margin:-13px 10px 0px 0px;width:50px;height:50px;text-align:center;background:url(../images/key.png);background-repeat:no-repeat;color:black;font-size:1em;font-weight:bold;}
+
+.response {position:absolute;top:15px;left:-50px;width:50px;height:50px;}
+
+.close {position:relative;float:right;padding-top:4px;margin:-5px 5px 0px 0px;width:35px;height:35px;font-weight:bold;font-size:1.9em;border:5px solid white;text-align:center;font-style:normal;font-family:Arial, Helvetica, sans-serif;font-weight:bold;}
+
+#squares {}
+
+#footer {margin:0 auto;margin-top:10px;width:1000px;text-align:center;font-size:.9em;font-family:Arial, Helvetica, sans-serif;color:white;}

@@ -1,0 +1,45 @@
+11|15 million:7 million:*21.9 million:4.3million
+12|1992:*2000:1995:2010
+13|January:February:*March:May
+14|*Kevin Carroll:Martin Mannix:Kjell Dahlen:Herb Carpenter
+15|Donald Kasprzak:John Ianelli:*Clyde Rabideau:Dan Stewart
+16|*1990:1999:2003:2005
+17|Montgomery Wards:JC Penney:*Merkels:Shirts Plus
+18|Lockrow's:Plattsburgh Office Systems:Northeast Printing:*Copy Post
+19|Hampton Inn:Nepco main office:*Howard Johnsons:Butcher Block
+21|Rick Dodge & Vickie Duffett:Rick Dodge & Karen Garrant:Karen Garrant & Sam Witherwax:*Rick Dodge & Krista Jock
+22|Donald Kasprzak:*Clyde Rabideau:Dan Stewart:Roland St. Pierre
+23|$75/month:$90/month:*$49/month:$109/month
+24|*Victor Podd:Bob Smith:Art Spiegel:Herb Carpenter
+25|October 2000:*November 1991:February 1995:June 2007
+26|Herb Carpenter:*Amy Whitehead:Bill Owens:Ceil Garrow
+27|Glens Falls National Bank:Sun Foods:*The Surrey Lounge:Price Chopper
+28|50:*250:175:500
+29|Murnane Builders:*Conroy & Conroy:Luck Brothers:Verville Construction
+31|Joseph Burke:Prem Gandhi:*Charles Warren:Arthur Momot
+32|Car dealership:Cleaning business:*Selling christmas trees:Newspaper route
+33|1996:1792:*1992:1999
+34|19 cents:32 cents:*44 cents:50 cents
+35|120,000 square feet:500,000 square feet:*80,000 square feet:100,000 square feet
+36|*Perry and Adore Kurtz:Herb and Mary Carpenter:Mark and Christine Barie:Sally and Chris Booth
+37|*Art LeFevre:Bernie Bassett:Art Renadette:Homer Goddeau
+38|1995:1985:*1990:1975
+39|Jazz it Up:Jim's Jazz House:Windows on the World:*JC's Jazz Club
+41|*Mary Carpenter:Carolee Smith:Marty Mannix:Garry Douglas
+42|William Owens:*Martin Mannix:Mary Carpenter:Barack Obama
+43|*Superintendant platts city schools:Pricipal PHS:Vice principle PHS:Lunch attendant PHS 
+44|1994:1989:1999:*1992
+45|*The D&H:Windows on the Bay:Gallaghers:Carburs
+46|*Chazy Central School:Beekmantown Central School:Ellenburg Central School:Chateaugay Central School
+47|Price Chopper:P&C:Hannaford:*Grand Union
+48|Larry Carpenter:Mitch Williams:Michael McGauley:*Joe Soper
+49|*Jack Cogan:Martin Mannix:Vince Delio:Amy Whitehead
+51|Bill Santa Pontiac:Knight Oldsmobile:Cumberland Ford:*Bill McBride Chevrolet
+52|1991:1992:*1993:1994
+53|Mary Burns:*Kim Campbell:Keri Sherman:Winifred Mulroney
+54|*9%:15%:30%:25%
+55|$50,000 :*$70,000:$100,000 :$125,000
+56|Copy Post:*Heritage Copy Center:Econoprint:Pennysaver
+57|*William McBride:Clyde Lewis:Clyde Rabideau:Herb Carpenter
+58|March 1992:May 1995:*September 2003:December 2009
+59|September 2001:August 1995:*August 2002:March 2010
